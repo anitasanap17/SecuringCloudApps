@@ -1,0 +1,12 @@
+- Created the Go Daddy Web App
+-	Created a domain
+-	Deployed a container on the Web App
+-	Designed Custom Web Application 
+-	Created a Key Vault
+-	Create a self-signed certificate 
+-	Imported and bound my self-signed certificate to my web application
+-	Created and bound an app service-managed certificate 
+-	Created front door
+-	Analyzed WAF rule sets
+-	Configured custom WAF rules
+-	Analyzed and remediated security center recommendations
